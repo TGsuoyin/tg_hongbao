@@ -1,11 +1,4 @@
-<!--
- * @Author: lengwuwen 1161839630@qq.com
- * @Date: 2023-11-18 00:44:05
- * @LastEditors: lengwuwen 1161839630@qq.com
- * @LastEditTime: 2023-11-18 01:01:51
- * @FilePath: \获取地址e:\hongbao\tgbotbak\tgbot\README.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
+
 ## 系统基于基于PHP的laravel框架搭建
 
 项目完整可运行，搭建需要有php代码基础以及telegram机器人相关知识。
@@ -15,8 +8,8 @@
 9.19
 
 ## 后台基于dcat-admin
-
-演示站点： [admin](https://ft.autoqpk.lol/admin)
+价格 200 U
+演示后台站点： [admin](https://ft.autopqk.lol/admin)
 账号：test
 密码：test123
 演示群组： [tg群组](https://t.me/hongbaoyanshi12)

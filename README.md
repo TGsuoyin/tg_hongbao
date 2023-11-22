@@ -1,10 +1,10 @@
 
 ## 系统基于基于PHP的laravel框架搭建
 
-项目完整可运行，搭建需要有php代码基础以及telegram机器人相关知识。
+搭建需要有php代码基础以及telegram机器人相关知识。
 
 ## 后台基于dcat-admin
-演示后台站点： [admin](https://ft.autopqk.lol/admin)
+# 演示后台站点： [admin](https://ft.autopqk.lol/admin)
 账号：test
 密码：test123
 演示群组： [@点我进入群组](https://t.me/hongbaoyanshi12)

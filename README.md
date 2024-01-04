@@ -1,15 +1,11 @@
 
-## 系统基于基于PHP的laravel框架搭建
 
-搭建需要有php代码基础以及telegram机器人相关知识。
-
-## 后台基于dcat-admin
 # 演示后台站点： [admin](https://ft.autopqk.lol/admin)
 账号：test
 密码：test123
 演示群组： [@点我进入群组](https://t.me/gshskski)
 >有问题联系 [@联系我](https://t.me/autopqk)
->
+>包搭建
 #### 包含下列完整功能
 ## 功能说明：
 1. 报表显示上级抽成，下级抽成，中雷赔付，抢包收入，邀请返点以及下级中雷返点

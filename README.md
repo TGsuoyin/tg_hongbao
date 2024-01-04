@@ -7,7 +7,7 @@
 # 演示后台站点： [admin](https://ft.autopqk.lol/admin)
 账号：test
 密码：test123
-演示群组： [@点我进入群组](https://t.me/WPG888)
+演示群组： [@点我进入群组](https://t.me/gshskski)
 >有问题联系 [@联系我](https://t.me/autopqk)
 >
 #### 包含下列完整功能

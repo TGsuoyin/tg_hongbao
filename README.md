@@ -3,12 +3,14 @@
 # 演示后台站点： [admin](https://ft.autopqk.lol/admin)
 账号：test
 密码：123456qw（演示需要，请勿修改）
+演示地址为老版 新版请看下图
 演示群组： [@点我进入群组](https://t.me/gshskski)
 >有问题联系 [@联系我](https://t.me/autopqk)
 >包搭建
 #### 包含下列完整功能
 ### 支持自助充值 自助提现等功能
 ![image](https://github.com/mmmrp/tg_hongbao/assets/72646062/7a0d4d06-e9c6-4587-bb33-e9b273554a36)
+![image](https://github.com/mmmrp/tg_hongbao/assets/72646062/276a29f9-979e-448e-9fb7-6dc89a0f2907)
 
 ## 功能说明：
 1. 报表显示上级抽成，下级抽成，中雷赔付，抢包收入，邀请返点以及下级中雷返点

@@ -5,7 +5,7 @@
 密码：123456qw（演示需要，请勿修改）
 演示地址为老版 新版请看下图
 演示群组： [@点我进入群组](https://t.me/gshskski)
-有问题联系 [@联系我](https://t.me/autopqk)
+有问题联系 [@联系我](https://t.me/question_ri)
 包搭建
 TG索引机器人，telegram超级索引源码 https://github.com/mmmrp/telegram-sousuo
 #### 包含下列完整功能

@@ -8,7 +8,7 @@
 
 有问题联系 [@联系我](https://t.me/question_ro)
 
-TG索引机器人，telegram超级索引群组https://github.com/mmmrp/telegram-sousuo
+TG索引机器人，telegram超级索引群组https://t.me/sousuo_q
 
 trx兑换 能量租赁 tg会员 钱包靓号商城 钱包监控 https://github.com/mmmrp/trx
 #### 包含下列完整功能

@@ -11,7 +11,7 @@
 * [👉trx兑换 能量租赁 tg会员 钱包靓号商城 钱包监控](https://github.com/mmmrp/trx)
 * [👉TG快三机器人](https://t.me/kstest1s)
 * [👉TG记账机器人-分销-包月-自助充值](https://t.me/tg_tj_bot)
-* [👉安卓远控 肉鸡 盗U](https://t.me/yuankong09)
+
 #### 包含下列完整功能
 ### 支持自助充值 自助提现、自动发包、设置自动发包金额范围，雷数范围等功能
 ![image](https://github.com/mmmrp/tg_hongbao/assets/72646062/7a0d4d06-e9c6-4587-bb33-e9b273554a36)

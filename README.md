@@ -9,7 +9,7 @@
 * 有问题联系 [👉联系我](https://t.me/question_r0)
 * [👉TG索引机器人，telegram超级索引群组](https://t.me/sousuo_z)
 * [👉trx兑换 能量租赁 tg会员 钱包靓号商城 钱包监控](https://github.com/mmmrp/trx)
-* [👉TG快三机器人](https://t.me/kstest1s)
+* [👉TG快三机器人](https://t.me/shouyaokuaisan_bot)
 * [👉TG记账机器人-分销-包月-自助充值](https://t.me/tg_tj_bot)
 
 #### 包含下列完整功能
